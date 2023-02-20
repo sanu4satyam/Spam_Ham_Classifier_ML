@@ -2,7 +2,7 @@
 
 Email/text messages have become a crucial part of our daily life as it is handy and easy to use. Since the user batch is enormous and contains a lot of sensitive information, it is susceptible to being compromised. Hackers can steal your information, leading to data theft, time wasted, and other security concerns. This brings us to the need to introduce a filter that can segregate emails into spam and ham. 
 
-Ham refers to genuine mail that is important to the user and is informative for his means. In contrast, Spam is spurious mail sent from unreliable sources with harmful intentions. In this blog, we will be studying how to segregate such messages into spam/ham using Naive Bayes in machine learning. But first, let’s start from scratch.  
+Ham refers to genuine mail that is important to the user and is informative for his means. In contrast, Spam is spurious mail sent from unreliable sources with harmful intentions. In this blog, we will be studying how to segregate such messages into spam/ham using differnt ML models training and testing. 
 
 
 #### The Best Model among these is Multinomial Naive Bayes with the accuracy score of: 98%
